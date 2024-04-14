@@ -8,3 +8,5 @@ Apache Kafka and Zookeeper: Used for streaming data from PostgreSQL to the proce
 Control Center and Schema Registry: Helps in monitoring and schema management of our Kafka streams.
 Apache Spark: For data processing with its master and worker nodes.
 Cassandra: Where the processed data will be stored.
+
+
